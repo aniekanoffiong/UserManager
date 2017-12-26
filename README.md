@@ -1,5 +1,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# To Test the Docker Implementation:
+You are required to have docker and docker-compose installed prior to running the app. 
+Run the following command inside the folder, after cloning the repo.
+`docker-compose up --build`
+
 # User Manager
 
 This repository contains a simple demo API built with NodeJS.
